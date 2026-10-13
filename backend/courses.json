@@ -1,0 +1,17 @@
+{
+    "Python öğren": {
+        "course_name": "Sıfırdan İleri Seviyeye Python Programlama",
+        "platform": "BTK Akademi",
+        "link": "https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877"
+    },
+    "Makine öğrenmesine giriş yap": {
+        "course_name": "Makine Öğrenmesi",
+        "platform": "BTK Akademi",
+        "link": "https://www.btkakademi.gov.tr/portal/course/makine-ogrenmesi-30123"
+    },
+    "Veri Bilimi için Tensorflow öğren": {
+        "course_name": "Veri Bilimi için Python ve Tensorflow",
+        "platform": "BTK Akademi",
+        "link": "https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705"
+    }
+}
